@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\newJeff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23189528-254A-4DC2-AA44-49D4A261D871}|AMS3ASales\\AMS3ASales.csproj|e:\\newjeff\\ams3asales\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23189528-254A-4DC2-AA44-49D4A261D871}|AMS3ASales\\AMS3ASales.csproj|solutionrelative:ams3asales\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23189528-254A-4DC2-AA44-49D4A261D871}|AMS3ASales\\AMS3ASales.csproj|e:\\newjeff\\ams3asales\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23189528-254A-4DC2-AA44-49D4A261D871}|AMS3ASales\\AMS3ASales.csproj|solutionrelative:ams3asales\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23189528-254A-4DC2-AA44-49D4A261D871}|AMS3ASales\\AMS3ASales.csproj|e:\\newjeff\\ams3asales\\migrations\\20240407164426_seedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23189528-254A-4DC2-AA44-49D4A261D871}|AMS3ASales\\AMS3ASales.csproj|solutionrelative:ams3asales\\migrations\\20240407164426_seedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\newJeff\\AMS3ASales\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AMS3ASales\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\newJeff\\AMS3ASales\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AMS3ASales\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:58:13.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\newJeff\\AMS3ASales\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AMS3ASales\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\newJeff\\AMS3ASales\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AMS3ASales\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:52:25.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240407164426_SeedProduct.cs",
+              "DocumentMoniker": "E:\\newJeff\\AMS3ASales\\Migrations\\20240407164426_SeedProduct.cs",
+              "RelativeDocumentMoniker": "AMS3ASales\\Migrations\\20240407164426_SeedProduct.cs",
+              "ToolTip": "E:\\newJeff\\AMS3ASales\\Migrations\\20240407164426_SeedProduct.cs",
+              "RelativeToolTip": "AMS3ASales\\Migrations\\20240407164426_SeedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:44:27.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
